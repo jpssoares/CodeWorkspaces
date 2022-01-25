@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>ex50</TITLE>
+
+<SCRIPT>
+function erasthostenes(n){
+    
+    let primes[324];
+    return primes;
+}
+
+function runForm(form) {
+    form.result.value = erasthostenes(parseInt(form.n.value,10));
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<H1>Eratosthenes</H1>
+<FORM ID="form2">
+    Generate prime until: <INPUT TYPE="text" ID="n" VALUE = "1" SIZE = 10 style="text-align: right"><BR>
+    <P><B>Your Message</B><BR>
+    <TEXTAREA ROWS="10" COLS="70" ID="result"></TEXTAREA>
+    <P><INPUT TYPE="button" ID="button1" VALUE="Generate" ONCLICK="runForm(form)">
+</FORM>
+</BODY>
+
+</HTML>

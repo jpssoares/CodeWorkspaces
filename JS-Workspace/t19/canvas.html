@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>Canvas</TITLE>
+
+<SCRIPT>
+function fillCanvas() {
+    let c=document.getElementById("canvas1");
+    let ctx=c.getContext("2d");
+
+    ctx.fillStyle="#FF0000";
+    ctx.fillRect(0,0,150,75);
+
+    ctx.moveTo(0,0);
+    ctx.lineTo(200,100);
+    ctx.stroke();
+
+    ctx.beginPath();
+    ctx.arc(95,50,40,0,2*Math.PI);
+    ctx.stroke();
+
+    ctx.fillStyle="#00FF00";
+    ctx.font="30px Arial";
+    ctx.fillText("Hello World",10,50);
+}
+</SCRIPT>
+</HEAD>
+
+<BODY ONLOAD="fillCanvas()">
+<H1>Example of Canvas</H1>
+<CANVAS id="canvas1" width="200" height="100" style="border:1px solid #000000">
+    This text is displayed if your browser does not support HTML5 Canvas
+</CANVAS>
+</BODY>
+</HTML>

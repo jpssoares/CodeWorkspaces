@@ -1,0 +1,227 @@
+Para poderem fazer alguma verificação da correção das vossas perguntas na ficha 5, aqui ficam, para cada pergunta, o que se obtém como primeiros resultados e o nº total de resultados (quando não os mostrar todos).
+Atenção: Como estou apenas a mostrar os primeiros resultados, pode ser que os seus primeiros resultados não coincidam com estes nas perguntas em que não se impõe uma ordem...
+Notem ainda que, apesar de todas as pessoas na tabela candidatos se terem candidatado a algum curso na FCT, como algumas dessas candidaturas não foram consideradas válidas, não aparecem na tabela candidaturas. Isso pode explicar, em certos casos, eventuais diferenças entre os resultados aqui apresentados e os seus resultados.
+
+-- 1
+4033
+
+-- 2
+16.123952392759732209273493677163401934
+
+-- 3
+18 resultados
+
+Engenharia Informática						15.5815
+Engenharia Mecânica							16.3281961471103327495621716287215411559
+Engenharia Eletrotécnica e de Computadores	15.8227574750830564784053156146179401993
+Matemática Aplicada à Gestão do Risco		16.2140969162995594713656387665198237885
+Engenharia Civil							14.9008298755186721991701244813278008299
+Conservação - Restauro						14.5553398058252427184466019417475728155
+Bioquímica									16.1387096774193548387096774193548387097
+Engenharia Geológica						14.0678160919540229885057471264367816092
+Engenharia Química e Bioquímica				16.2978201634877384196185286103542234332
+Química Aplicada							15.9901639344262295081967213114754098361
+Engenharia de Micro e Nanotecnologias		16.3930294906166219839142091152815013405
+Engenharia e Gestão Industrial				16.7605714285714285714285714285714285714
+Matemática									16.6517699115044247787610619469026548673
+Engenharia Biomédica						17.5857466063348416289592760180995475113
+Engenharia Física							17.1046511627906976744186046511627906977
+Engenharia do Ambiente						15.1298892988929889298892988929889298893
+Engenharia de Materiais						16.1570048309178743961352657004830917874
+Biologia Celular e Molecular				16.9176972281449893390191897654584221748
+
+-- 4
+446
+
+-- 5
+199
+
+-- 6
+18 resultados
+
+Engenharia Mecânica							212
+Engenharia Informática						283
+Engenharia Eletrotécnica e de Computadores	206
+Matemática Aplicada à Gestão do Risco		124
+Conservação - Restauro						 70
+Engenharia Civil							129
+Bioquímica									230
+Engenharia Geológica						 58
+Química Aplicada							111
+Engenharia Química e Bioquímica				173
+Engenharia de Micro e Nanotecnologias		191
+Matemática									135
+Engenharia e Gestão Industrial				185
+Engenharia Física							155
+Engenharia Biomédica						216
+Engenharia do Ambiente						123
+Engenharia de Materiais						125
+Biologia Celular e Molecular				206
+
+-- 7
+M	2362
+F	1671
+
+-- 8
+446 resultados
+
+Escola Secundária António Damásio			69
+Escola Secundária Vergílio Ferreira			59
+Equivalências (nº 2 Artº 20-A)				57
+Escola Secundária Santa Maria de Sintra		52
+Salesianos de Lisboa						46
+Escola Secundária do Restelo				45
+Escola Secundária Rainha D. Leonor			44
+Escola Secundária de José Gomes Ferreira	40
+Escola Secundária Daniel Sampaio			40
+Escola Secundária Sebastião e Silva			39
+
+-- 9
+645 resultados (os primeiros são iguais ao anterior)
+
+-- 10
+8 resultados
+
+Escola Secundária Fernão Mendes Pinto
+Escola Secundária Santo André, Barreiro
+Escola Secundária Emídio Navarro, Almada
+Escola Secundária Daniel Sampaio
+Escola Secundária Bocage
+Escola Secundária José Afonso
+Escola Secundária do Pinhal Novo
+Escola Secundária de Sampaio
+
+-- 11
+4 resultados
+
+RICARDO P. B.		20
+MÁRIO A. A. C.		20
+FRANCISCO D. S. P.	20
+MERCEDES D. C. F.	20
+
+-- 12
+18 resultados
+
+Engenharia Mecânica							16.856
+Engenharia Informática						15.96
+Engenharia Eletrotécnica e de Computadores	15.6448051948051948051948051948051948052
+Matemática Aplicada à Gestão do Risco		17.205
+Engenharia Civil							14.7021276595744680851063829787234042553
+Conservação - Restauro						15.1608695652173913043478260869565217391
+Bioquímica									16.73875
+Engenharia Geológica						13.93
+Engenharia Química e Bioquímica				16.4880597014925373134328358208955223881
+Química Aplicada							16.24
+Engenharia de Micro e Nanotecnologias		16.4709090909090909090909090909090909091
+Engenharia e Gestão Industrial				17.2109090909090909090909090909090909091
+Matemática									17.5583333333333333333333333333333333333
+Engenharia do Ambiente						15.2057692307692307692307692307692307692
+Engenharia Biomédica						17.8857142857142857142857142857142857143
+Engenharia Física							17.432
+Engenharia de Materiais						16.1
+Biologia Celular e Molecular				17.4107692307692307692307692307692307692
+
+-- 13
+18 resultados
+
+Engenharia Mecânica							15.88
+Engenharia Informática						15.14
+Engenharia Eletrotécnica e de Computadores	12.96
+Matemática Aplicada à Gestão do Risco		16.82
+Conservação - Restauro						14.42
+Engenharia Civil							12.82
+Bioquímica									15.4
+Engenharia Geológica						12.12
+Química Aplicada							14.32
+Engenharia Química e Bioquímica				14.78
+Engenharia de Micro e Nanotecnologias		14.98
+Matemática									16.92
+Engenharia e Gestão Industrial				15.94
+Engenharia Biomédica						17.22
+Engenharia Física							16.78
+Engenharia do Ambiente						13.48
+Biologia Celular e Molecular				16.2
+Engenharia de Materiais						15.18
+
+-- 14
+186 resultados
+
+CLARA I. L. L.		16.7
+DIOGO F. S. M.		14.2
+PEDRO M. F. S.		15.7
+ANTONIO R. D. S.	14.8
+DAVID N. P. R.		14.7
+ANA B. A. L.		16
+DUARTE M. R. P.		14.8
+RODRIGO S. T.		15.5
+TOMÁS D. O. F.		14.3
+FRANCISCO Á. A. M.	14.5
+
+-- 15
+5 resultados
+
+Bioquímica
+Engenharia Biomédica
+Engenharia Química e Bioquímica
+Engenharia e Gestão Industrial
+Engenharia Informática
+
+-- 16
+1 resultado
+
+BEATRIZ R. D. S.	186.2
+
+
+-- 17
+256
+
+-- 18
+744
+
+-- 19
+346
+
+-- 20
+18 resultados
+
+Engenharia Civil							 6.38297872340425531914893617021276595745
+Engenharia Informática						13.52941176470588235294117647058823529412
+Engenharia Eletrotécnica e de Computadores	15.58441558441558441558441558441558441558
+Engenharia Mecânica							24
+Engenharia Geológica						25
+Engenharia de Materiais						34.78260869565217391304347826086956521739
+Engenharia Física							36
+Engenharia do Ambiente						40.38461538461538461538461538461538461538
+Engenharia de Micro e Nanotecnologias		47.27272727272727272727272727272727272727
+Engenharia e Gestão Industrial				49.09090909090909090909090909090909090909
+Matemática									50
+Engenharia Química e Bioquímica				59.70149253731343283582089552238805970149
+Biologia Celular e Molecular				64.61538461538461538461538461538461538462
+Matemática Aplicada à Gestão do Risco		70
+Química Aplicada							70
+Bioquímica									73.75
+Engenharia Biomédica						76.78571428571428571428571428571428571429
+Conservação - Restauro						86.95652173913043478260869565217391304348
+
+-- 21
+17 resultados
+
+Engenharia Mecânica							16.1766666666666666666666666666666666667
+Engenharia Informática						15.8223255813953488372093023255813953488
+Engenharia Eletrotécnica e de Computadores	14.4915
+Matemática Aplicada à Gestão do Risco		17.0890909090909090909090909090909090909
+Engenharia Civil							13.5421428571428571428571428571428571429
+Bioquímica									16.1817391304347826086956521739130434783
+Engenharia Geológica						12.928
+Engenharia Química e Bioquímica				15.3441666666666666666666666666666666667
+Química Aplicada							14.748
+Engenharia de Micro e Nanotecnologias		15.6095238095238095238095238095238095238
+Matemática									16.896
+Engenharia e Gestão Industrial				16.4073684210526315789473684210526315789
+Engenharia Biomédica						17.53
+Engenharia Física							16.645
+Engenharia do Ambiente						14.3521739130434782608695652173913043478
+Biologia Celular e Molecular				16.69
+Engenharia de Materiais						15.4527272727272727272727272727272727273
+
+

@@ -1,0 +1,26 @@
+<HTML>
+
+<HEAD>
+<TITLE>Adder</TITLE>
+
+<SCRIPT TYPE="text/javascript">
+function compute(n1, n2) {
+    return n1 + n2;
+}
+function runForm1(form) {
+    form.text3.value = compute(parseFloat(form.text1.value), parseFloat(form.text2.value));
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<H1>Adder</H1>
+<FORM ID="form1">
+     <INPUT TYPE="text" ID="text1" VALUE="1.2" SIZE=10 style="text-align: right">
+   + <INPUT TYPE="text" ID="text2" VALUE="3.4" SIZE=10 style="text-align: right">
+   = <INPUT TYPE="text" ID="text3" VALUE="4.6" SIZE=25 READONLY style="text-align: right; font-weight: bold">
+ <p> <INPUT TYPE="button" ID="button1" VALUE="Add" ONCLICK="runForm1(form)">
+</FORM>
+</BODY>
+
+</HTML>

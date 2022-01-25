@@ -1,0 +1,28 @@
+<HTML>
+
+<HEAD>
+<TITLE>GOTO WEB page</TITLE>
+
+<SCRIPT>
+function runForm3(form) {
+    let url = form.url.value;
+    if( url == "" ) {
+        alert("Error: Empty URL");
+    }
+    else {
+        document.location = form.url.value;   // Change URL
+    }
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<H1>Goto WEB page</H1>
+<FORM ID="form3">
+    Enter URL: <INPUT TYPE="text" ID="url" SIZE=40>
+    <P><INPUT TYPE="button" ID="button1" VALUE="Goto" ONCLICK="runForm3(form)">
+    <INPUT type="reset">
+</FORM>
+</BODY>
+
+</HTML>

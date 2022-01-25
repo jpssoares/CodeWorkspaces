@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>ex49</TITLE>
+
+<SCRIPT>
+function runForm(form,query) {
+    let term = form.term.value;
+    if( term == "" ) {
+        alert("Error: Empty URL");
+    }
+    else {
+        document.location = query + term;   // Change URL
+    }
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<H1>Search</H1>
+<FORM ID="form3">
+    Enter text in English: <INPUT TYPE="term" ID="term" SIZE=40>
+    <P><INPUT TYPE="button" ID="Google" VALUE="Google" ONCLICK="runForm(form, 'http://www.google.com/search?q=')">
+    <INPUT TYPE="button" ID="Wikipedia" VALUE="Wikipedia" ONCLICK="runForm(form,'https://en.wikipedia.org/wiki/')">
+    <INPUT TYPE="button" ID="Dictionary" VALUE="Dictionary" ONCLICK="runForm(form,'')">
+    <INPUT TYPE="button" ID="Thesaurus" VALUE="Thesaurus" ONCLICK="runForm(form,'')">
+    <INPUT TYPE="button" ID="Images" VALUE="Images" ONCLICK="runForm(form,'')">
+    <INPUT TYPE="button" ID="Twitter" VALUE="Twitter" ONCLICK="runForm(form,'')">
+    <INPUT TYPE="button" ID="Youtube" VALUE="Youtube" ONCLICK="runForm(form,'')">
+    <P><INPUT TYPE="button" ID="Portuguese" VALUE="Portuguese" ONCLICK="runForm(form,'http://translate.google.com/?langpair=en|pt&text=')">
+    <INPUT TYPE="button" ID="French" VALUE="French" ONCLICK="runForm(form,'http://translate.google.com/?langpair=en|fr&text=')">
+    <INPUT TYPE="button" ID="Mandarin" VALUE="Mandarin" ONCLICK="runForm(form,'')">
+
+</FORM>
+</BODY>
+
+</HTML>

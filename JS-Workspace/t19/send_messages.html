@@ -1,0 +1,41 @@
+<HTML>
+
+<HEAD>
+<TITLE>Send Messages</TITLE>
+
+<SCRIPT>
+function runForm2(form) {
+    let msg = "Sent by: ";
+    msg += form.firstname.value + " " + form.lastname.value;
+    msg += " (" + form.email.value + ") ";
+    if( form.sex1.checked ) {
+        msg += " [male]";
+    }
+    else if( form.sex2.checked ) {
+        msg += " [female]";
+    }
+    else {
+        msg += " []";
+    }
+    msg += "\nMesg: " + form.textarea1.value;
+    alert(msg);
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<H1>Send Messages</H1>
+<FORM ID="form2">
+    First name: <INPUT TYPE="text" ID="firstname"><BR>
+    Last name: <INPUT TYPE="text" ID="lastname"><BR>
+    email: <INPUT TYPE="text" ID="email"><BR>
+    <INPUT TYPE="radio" ID="sex1" VALUE="Male" ONCLICK="sex2.checked=false"> Male
+    <INPUT TYPE="radio" ID="sex2" VALUE="Female" ONCLICK="sex1.checked=false"> Female<BR>
+    <P><B>Your Message</B><BR>
+    <TEXTAREA ID="textarea1" ROWS="5" COLS="50">Supercalifragilisticexpialidocious.</TEXTAREA>
+    <P><INPUT TYPE="button" ID="button1" VALUE="Send" ONCLICK="runForm2(form)">
+    <INPUT type="reset">
+</FORM>
+</BODY>
+
+</HTML>

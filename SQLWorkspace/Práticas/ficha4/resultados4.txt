@@ -1,0 +1,212 @@
+Para poderem fazer alguma verificação da correção das vossas perguntas na ficha 4, aqui ficam, para cada pergunta, o que se obtém como primeiros resultados e o nº total de resultados:
+
+Atenção: Como apenas mostra os primeiros resultados, pode ser que os seus primeiros resultados não coincidam com estes nas perguntas em que não se impõe uma ordem...
+
+-- 1
+4033 resultados
+
+RUI M. R. G.		161
+YULONG G.			168
+DIOGO D. O. A.		173
+JOÃO P. N. P.		165
+CAROLINA S. F.		168
+MATILDE M. D. A.	188
+MAFALDA R. M.		170
+LEONOR C. D. A.		172
+MARGARIDA R. P.		187
+JOÃO S. D. R.		171
+
+
+-- 2
+4033 resultados
+
+RUI M. R. G.		Escola Secundária da Amora
+YULONG G.			Escola Secundária José Afonso
+DIOGO D. O. A.		Escola Secundária São Pedro, Vila Real
+JOÃO P. N. P.		Escola Secundária Stuart Carvalhais
+CAROLINA S. F.		Escola Secundária Vergílio Ferreira
+MATILDE M. D. A.	Externato Carvalho Araújo
+MAFALDA R. M.		Escola Secundária Bocage
+LEONOR C. D. A.		Escola Secundária Sebastião e Silva
+MARGARIDA R. P.		Escola Básica e Secundária Dr. Isidoro de Sousa
+JOÃO S. D. R.		Escola Secundária de José Gomes Ferreira
+
+-- 3
+873 resultados
+
+FILIPA A. M. P.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+CATARINA L. C. G.	Escola Básica e Secundária Dr. João de Brito Camacho, Almodôvar	Almodôvar
+PEDRO M. L. J.		Escola Básica e Secundária Pedro da Fonseca, Proença-a-Nova	Proença-a-Nova
+DIOGO B. C. N.		Escola Básica e Secundária Cunha Rivara, Arraiolos	Arraiolos
+MARGARIDA R. P.		Escola Básica e Secundária Dr. Isidoro de Sousa	Viana do Alentejo
+JOSÉ M. D. C.		Escola Básica e Secundária de José Relvas, Alpiarça	Alpiarça
+JOANA C. D. F.		Escola Básica e Secundária de José Relvas, Alpiarça	Alpiarça
+PAULO P. D. S.		Escola Básica e Secundária Dr.ª Maria Judite Serrão Andrade, Sardoal	Sardoal
+MARIA G. V.			Escola Básica e Secundária Sidónio Pais, Vilarelho, Caminha	Caminha
+VANESSA C. M. D.	Escola Básica e Secundária de Vila Nova de Cerveira	Vila Nova de Cerveira
+
+-- 4
+6 resultados
+
+1	Engenharia Química							Universidade de Lisboa - Instituto Superior Técnico					158
+2	Engenharia de Materiais						Universidade de Lisboa - Instituto Superior Técnico					158
+3	Engenharia Eletrotécnica e de Computadores	Universidade de Lisboa - Instituto Superior Técnico					158
+4	Engenharia de Materiais						Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	159
+5	Engenharia e Gestão Industrial				Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	159
+6	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	159
+
+-- 5
+Esta depende do seu nome. Se usou o nome indicado, o resultado é igual a alínea anterior.
+
+-- 6
+7 resultados
+Matemática A		2019	1
+Matemática A		2019	2
+Português			2019	1
+Biologia e Geologia	2018	1
+Física e Química A	2018	1
+Física e Química A	2019	1
+Física e Química A	2018	2
+
+O seu resultado depende de si, o resultado do aluno indicado na ficha é igual ao anterior.
+
+-- 7
+57 resultados
+
+AFONSO R. L.	Engenharia de Micro e Nanotecnologias						Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO D. P. R.	Relações Internacionais (regime pós-laboral)				Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas
+AFONSO S. S. G.	Informática e Gestão de Empresas (regime pós-laboral)		ISCTE - Instituto Universitário de Lisboa
+AFONSO D. S. M.	Estudos Gerais												Universidade de Lisboa - Faculdade de Letras
+AFONSO M. D. M.	Bioquímica													Universidade de Lisboa - Faculdade de Ciências
+AFONSO M. C. A.	Economia													Universidade de Lisboa - Instituto Superior de Economia e Gestão
+AFONSO V. C. L.	Engenharia de Telecomunicações e Informática				Universidade de Lisboa - Instituto Superior Técnico (Tagus Park)
+AFONSO G. D. M.	Engenharia Eletrónica e Telecomunicações e de Computadores	Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa
+AFONSO F. P.	Engenharia Geológica										Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO Q. N. V.	Engenharia Informática										Universidade de Lisboa - Faculdade de Ciências
+
+-- 8
+170 resultados
+
+JOSÉ M. D. C.		172.4	181	1	Escola Básica e Secundária de José Relvas, Alpiarça
+INÊS M. M. C.		172.4	172	1	Escola Secundária Martins Sarmento, Guimarães
+PEDRO M. M. P.		160.6	167	1	Escola Secundária André de Gouveia
+PEDRO J. S. N.		158.8	148	3	Escola Secundária André de Gouveia
+JOÃO A. M. J.		171.8	171	2	Escola Secundária João de Deus
+AFONSO F. S. B.		155		157	1	Escola Secundária João de Deus
+TIAGO G. A. V.		155.2	157	1	Escola Secundária da Amadora
+DINIS N. F.			161.6	156	1	Escola Secundária Camões
+RAFAEL T. B.		157		145	1	Escola Secundária Camões
+FRANCISCO R. E. S.	157.6	146	3	Escola Básica e Secundária D. Filipa de Lencastre
+
+-- 9
+Esta depende da Escola onde andou.
+Na resposta abaixo seguem os resultados relativos a Escola Secundária Gabriel Pereira.
+
+4 resultados
+
+DAVID M. B. M.		Engenharia Eletrotécnica e de Computadores
+JOANA A. D. M.		Química Aplicada
+BRUNO T. C.			Matemática
+HENRIQUE D. S. C.	Engenharia Eletrotécnica e de Computadores
+
+-- 10
+322 resultados
+
+RÚBEN S. M.			Bioquímica
+ANA N. D. F.		Bioquímica
+TIAGO M. F. N.		Química Aplicada
+MARIANA M. B.		Biologia Celular e Molecular
+MARIA D. C. P.		Biologia Celular e Molecular
+NUNO D. F. M.		Matemática
+CAROLINA S. Q. F.	Bioquímica
+MARIANA S. D. S.	Sistemas e Tecnologias de Informação
+FILIPA F. B.		Química Aplicada
+BEATRIZ B. R.		Química Aplicada
+
+-- 11
+767 resultados
+
+TOMÁS P. D. C.		Setúbal	Lisboa
+RAFAEL F. C. B.		Setúbal	Lisboa
+QU T.				Setúbal	Lisboa
+SHEILA G. A.		Setúbal	Lisboa
+MARTA H. A.			Setúbal	Lisboa
+JOSUÉ N. O.			Setúbal	Leiria
+RUBEN P. A.			Setúbal	Viseu
+ADRIANA I. C. F.	Setúbal	Faro
+MARGARIDA D. S. L.	Setúbal	Lisboa
+EDUARDO G. A.		Setúbal	Porto
+
+-- 12
+179 resultados
+
+JÉSSICA A. L.	3	6
+JOANA S. B. G.	4	5
+JOÃO C. P. N.	5	6
+GONÇALO R. M.	2	4
+ANDRÉ L. C. C.	3	4
+GONÇALO V. M.	1	2
+LUCAS C. L.		2	6
+GUILHERME C. C.	1	2
+TIAGO F. A.		3	5
+MARTIN K. M.	1	4
+
+-- 13
+76 resultados
+
+FILIPE F. P.		4	5
+FRANCISCO S. N. M.	2	3
+GUILHERME C. C.		1	5
+INÊS M. G. R.		2	6
+CAETANO L. D. D.	5	6
+RUI A. G. G.		1	4
+EDUARDO J. P. S.	1	2
+HUGO D. S. P.		1	2
+RODRIGO M. G. M.	2	3
+JOÃO F. M. M.		2	4
+
+-- 14
+186 resultados
+
+5428	CLARA I. L. L.
+6947	JOÃO P. B. A.
+8423	JORGE P. D. S.
+14754	LUCAS S. D. S.
+26366	MÁRCIA F. C. N.
+29873	JOANA F. D. S.
+32478	JOÃO M. D. S.
+33244	MANUEL C. G. P.
+35796	DAVID R. M.
+43724	JOAQUIM S. M. D.
+
+-- 15
+16 resultados
+
+Engenharia Mecânica
+Engenharia Informática
+Engenharia Eletrotécnica e de Computadores
+Matemática Aplicada à Gestão do Risco
+Conservação - Restauro
+Engenharia Civil
+Bioquímica
+Engenharia Geológica
+Química Aplicada
+Engenharia de Micro e Nanotecnologias
+Matemática
+Engenharia e Gestão Industrial
+Engenharia Biomédica
+Engenharia Física
+Engenharia do Ambiente
+Engenharia de Materiais
+
+-- 16
+3 resultados
+
+Conservação - Restauro
+Engenharia Informática
+Matemática Aplicada à Gestão do Risco
+
+-- 17
+1 resultado
+
+Conservação - Restauro

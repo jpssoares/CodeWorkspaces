@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<HTML>
+
+<!--
+Rede Geodésica Nacional
+
+0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+-->
+
+
+<HEAD>	
+<TITLE>Linguagens e Ambientes de Programação (2020/2021) [Eng.Inf. - DI/FCT/UNL] - 3º projeto prático (Javascript)</TITLE>
+<META charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">	
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+
+<SCRIPT TYPE="text/javascript" SRC="rgn.js"></SCRIPT>
+<STYLE>
+html, body { font-size:12px; height: 100%;  width: 100%; padding: 0; margin: 0;}
+input { padding: 0; margin: 0;}
+</STYLE>
+</HEAD>
+
+<BODY ONLOAD="onLoad()">
+
+<DIV STYLE="position: fixed; top: 0px; left: 0px; height: 100%; width: 200px; background: darkgray;">
+<H2>Rede Geodésica Nacional</H2>
+<hr><b>Autores:</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;   57498 Vicente Rodrigues dos Santos <br />
+&nbsp;&nbsp;&nbsp;&nbsp;   57609 Joao Soares <br />
+
+
+
+
+
+
+
+<hr>
+<b>Controlo:</b>
+	<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Visíveis:</br>
+	&nbsp;&nbsp;&nbsp;
+	Ordem 1:<SPAN id='visible_caches'></SPAN>
+	<img src="resources/order1.png" alt="order1" />
+	<input type="checkbox" id="order1" unchecked autocomplete="off" onchange="checkboxUpdate(id)"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<SPAN id='visible_vgs_order1'>0</SPAN> 
+
+	<br/>
+	&nbsp;&nbsp;&nbsp;
+	Ordem 2:<SPAN id='visible_caches'></SPAN>
+	<img src="resources/order2.png" alt="order2" />	
+	<input type="checkbox" id="order2" unchecked autocomplete="off" onchange="checkboxUpdate(id)"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<SPAN id='visible_vgs_order2'>0</SPAN> 
+
+	<br/>
+	&nbsp;&nbsp;&nbsp;
+	Ordem 3:<SPAN id='visible_caches'></SPAN>
+	<img src="resources/order3.png" alt="order3" />	
+	<input type="checkbox" id="order3" unchecked autocomplete="off" onchange="checkboxUpdate(id)"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<SPAN id='visible_vgs_order3'>0</SPAN> 
+
+	<br/>
+	&nbsp;&nbsp;&nbsp;
+	Ordem 4:<SPAN id='visible_caches'></SPAN>
+	<img src="resources/order4.png" alt="order4" />	
+	<input type="checkbox" id="order4" unchecked autocomplete="off" onchange="checkboxUpdate(id)"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<SPAN id='visible_vgs_order4'>0</SPAN> 
+
+	<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<b>total: </b><SPAN id='visible_vgs'>0</SPAN><br />
+	<br /><input type="button" id="botao_altitudes" value ="Mostrar altitudes" onclick ="drawAltitudes()"><br />
+	<br /><INPUT TYPE="button" ID="botao_validar_distancias" VALUE="Validar distancias" ONCLICK="alert(vgsfuncionalidade4())">
+<hr>
+<b>Estatística:</b>
+
+<br />
+<br />
+&nbsp;&nbsp;&nbsp;
+Mais elevado:
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<SPAN id='highest_vg'> </SPAN>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<SPAN id='highest_vg_alt'>0 m </SPAN>
+
+
+<br />
+<br />
+&nbsp;&nbsp;&nbsp;
+Menos elevado:
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<SPAN id='lowest_vg'> </SPAN>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<SPAN id='lowest_vg_alt'>0 m</SPAN>
+
+</DIV>
+
+
+<div id="mapid" style="position: fixed; top: 0px; left: 200px; width: 100%; height: 100%;"></div>
+</BODY>
+
+</HTML>
+

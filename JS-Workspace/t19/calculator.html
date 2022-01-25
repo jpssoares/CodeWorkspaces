@@ -1,0 +1,40 @@
+<HTML>
+
+<HEAD>
+<TITLE>Calculator</TITLE>
+</HEAD>
+
+<BODY>
+<H1>Calculator</H1>
+<FORM ID="form4">
+    <TABLE BORDER=10>
+    <TR><TD>
+        <INPUT TYPE="text" ID="display" Size="14">
+    </TD></TR>
+    <TR><TD>
+        <INPUT TYPE="button" ID="1" VALUE="1" ONCLICK="form.display.value += '1'">
+        <INPUT TYPE="button" ID="2" VALUE="2" ONCLICK="form.display.value += '2'">
+        <INPUT TYPE="button" ID="3" VALUE="3" ONCLICK="form.display.value += '3'">
+        <INPUT TYPE="button" ID="+" VALUE="+" ONCLICK="form.display.value += '+'">
+    <br>
+        <INPUT TYPE="button" ID="4" VALUE="4" ONCLICK="form.display.value += '4'">
+        <INPUT TYPE="button" ID="5" VALUE="5" ONCLICK="form.display.value += '5'">
+        <INPUT TYPE="button" ID="6" VALUE="6" ONCLICK="form.display.value += '6'">
+        <INPUT TYPE="button" ID="-" VALUE="-" ONCLICK="form.display.value += '-'">
+    <br>
+        <INPUT TYPE="button" ID="7" VALUE="7" ONCLICK="form.display.value += '7'">
+        <INPUT TYPE="button" ID="8" VALUE="8" ONCLICK="form.display.value += '8'">
+        <INPUT TYPE="button" ID="9" VALUE="9" ONCLICK="form.display.value += '9'">
+        <INPUT TYPE="button" ID="*" VALUE="*" ONCLICK="form.display.value += '*'">
+    <br>
+        <INPUT TYPE="button" ID="C" VALUE="C" ONCLICK="form.display.value = ''">
+        <INPUT TYPE="button" ID="0" VALUE="0" ONCLICK="form.display.value += '0'">
+        <INPUT TYPE="button" ID="=" VALUE="=" ONCLICK="form.display.value = eval(form.display.value)">
+        <INPUT TYPE="button" ID="/" VALUE="/" ONCLICK="form.display.value += '/'">
+    <br>
+    </TD></TR>
+    </TABLE>
+</FORM>
+</BODY>
+
+</HTML>
